@@ -1,0 +1,13 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,50000
+102,Mouse,Electronics,800
+103,Keyboard,Electronics,1500
+104,Monitor,Electronics,12000
+105,Chair,Furniture,5000
+106,Desk,Furniture,7000
+107,Headphones,Electronics,2500
+108,Phone,Electronics,30000
+109,Bookshelf,Furniture,9000
+110,Table,Furniture,11000
+111,Webcam,Electronics,3500
+112,Printer,Electronics,15000
